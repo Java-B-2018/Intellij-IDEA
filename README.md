@@ -1,4 +1,4 @@
-# lab1
+# Intellij IDEA 安装与使用（初步）
 学习Intellij IDEA的安装以及使用
 
 
@@ -79,7 +79,9 @@ Intellij 分为两个版本：
 
 ![open](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/open.png)
 
-+ 在弹出窗口右上角的```Project SDK```一栏，选择```New ...```，新建SDK并选择到电脑上JDK的目录。若```Project SDK```这一栏会出现```1.8```的选项则代表成功
++ 在弹出窗口右上角的```Project SDK```一栏，选择```New ...```，新建SDK并选择到电脑上JDK的目录。
+![jdk](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/jdk.png)
+若```Project SDK```这一栏会出现```1.8```的选项则代表成功
 
 ![new](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/new.png)
 
