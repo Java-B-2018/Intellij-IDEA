@@ -40,7 +40,7 @@ Intellij 分为两个版本：
 
  进入Intellij IDEA 下载页，根据自己的操作系统<b>(Windows/macOS/Linux)</b>下载Ultimate版并安装：[https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
 
- (插入图片)
+ ![download](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/console.png)
  
 ***安装过程中遇到Installation Options这一步时，建议按照如下提示勾选：***
 
@@ -82,35 +82,36 @@ Intellij 分为两个版本：
 
 + 打开Intellij，点击```Create New Project```
 
-(插入图片)
+![open](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/open.png)
 
 + 在弹出窗口右上角的```Project SDK```一栏，选择```New ...```，新建SDK并选择到电脑上JDK的目录。若```Project SDK```这一栏会出现```1.8```的选项则代表成功
 
-(插入图片)
+![new](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/new.png)
 
 + 点击```Next >```，```Next >```，输入工程名与工程路径，再点击```Finish```
 
-(插入图片)
-
+![info](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/info.png)
 
 
 ## 创建Java类
 
 + 在左侧栏找到```src```，右键并选择```New```——```Java Class```
 
-(插入图片)
+![create](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/create.png)
 
 + 填写Java类名称并确定
 
-(插入图片)
+![name](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/name.png)
 
 ## 编写代码与运行
 
 + 将右侧的初始代码改成自己的代码
 
-(插入图片)
+![code](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/code.png)
 
 + 编写完成之后，点击左侧的绿色箭头，点击```Run 类名.main()```，即可在下方看到运行结果
 
+![run](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/run.png)
 
-(插入图片)
+
+![console](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/console.png)
