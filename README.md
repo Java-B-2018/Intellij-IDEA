@@ -52,7 +52,7 @@ Intellij 分为两个版本：
 ![choose](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/choose.PNG)
 
 
-***在选择开始文件夹时，不要点击下面的栏目，直接点击```install```即可***
+***在创建开始菜单时，不要点击下面的栏目，直接点击```install```即可***
 ![start_menu](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/start_menu.PNG)
 
 # 准备工作
