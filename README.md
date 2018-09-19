@@ -49,26 +49,21 @@ Intellij 分为两个版本：
 + 在```Create Associations```这一栏，勾选```.java```
 
 + **不勾选** ```Download and install JRE x86 by JetBrains```
+![choose](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/choose.PNG)
 
-(插入图片)
 
-
+***在创建开始菜单时，不要点击下面的栏目，直接点击```install```即可***
+![start_menu](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/start_menu.PNG)
 
 # 准备工作
 
 + 在桌面上打开安装好的Intellij IDEA，会弹出第一次设置，选择```Do not import settings```
 
-(插入图片)
-
 
 + 将协议内容的滚动条拖到最底部，再点击```Accept```按钮
 
-(插入图片)
-
 
 + 在激活账号中填入之前注册的学生账号
-
-(插入图片)
 
 
 + 接下来的所有设置步骤**一律直接点击下一步即可**
