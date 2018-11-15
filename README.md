@@ -40,7 +40,7 @@ Intellij 分为两个版本：
 
  进入Intellij IDEA 下载页，根据自己的操作系统<b>(Windows/macOS/Linux)</b>下载Ultimate版并安装：[https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
 
- ![download](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/download.png)
+ ![download](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/download.png)
  
 ***安装过程中遇到Installation Options这一步时，建议按照如下提示勾选：***
 
@@ -49,11 +49,11 @@ Intellij 分为两个版本：
 + 在```Create Associations```这一栏，勾选```.java```
 
 + **不勾选** ```Download and install JRE x86 by JetBrains```
-![choose](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/choose.PNG)
+![choose](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/choose.PNG)
 
 
 ***在创建开始菜单时，不要点击下面的栏目，直接点击```install```即可***
-![start_menu](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/start_menu.PNG)
+![start_menu](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/start_menu.PNG)
 
 # 准备工作
 
