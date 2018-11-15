@@ -77,38 +77,38 @@ Intellij 分为两个版本：
 
 + 打开Intellij，点击```Create New Project```
 
-![open](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/open.png)
+![open](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/open.png)
 
 + 在弹出窗口右上角的```Project SDK```一栏，选择```New ...```，新建SDK并选择到电脑上JDK的目录。
 ![jdk](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/jdk.png)
 若```Project SDK```这一栏会出现```1.8```的选项则代表成功
 
-![new](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/new.png)
+![new](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/new.png)
 
 + 点击```Next >```，```Next >```，输入工程名与工程路径，再点击```Finish```
 
-![info](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/info.png)
+![info](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/info.png)
 
 
 ## 创建Java类
 
 + 在左侧栏找到```src```，右键并选择```New```——```Java Class```
 
-![create](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/create.png)
+![create](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/create.png)
 
 + 填写Java类名称并确定
 
-![name](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/name.png)
+![name](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/name.png)
 
 ## 编写代码与运行
 
 + 将右侧的初始代码改成自己的代码
 
-![code](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/code.png)
+![code](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/code.png)
 
 + 编写完成之后，点击左侧的绿色箭头，点击```Run 类名.main()```，即可在下方看到运行结果
 
-![run](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/run.png)
+![run](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/run.png)
 
 
-![console](https://raw.githubusercontent.com/Java-B-2018/lab1/master/images/console.png)
+![console](https://raw.githubusercontent.com/Java-B-2018/Intellij-IDEA/master/images/console.png)
